@@ -6,7 +6,6 @@
 ## Profile
 - 名前：mtmtP
 - 所在地：東京都
-- 興味：将棋、素数、植物、めだか
 
 # Works
 - [GitHub](https://mtmtp.github.io/)
